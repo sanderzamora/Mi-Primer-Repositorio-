@@ -7,4 +7,4 @@ Lo que voy entendiendo de GitHub y Git
 - Me gustaria entender más el funcionamiento de todo este ambiente de GitHub y Visual Studio Code, ya que no entendi mucho sobre visual studio code.
 - Vengo con muchas ganas de aprender y ganar conocimientos 
 
-😄 ¡Gracias por el curso!
+Espero que me vaya bien en este curso
